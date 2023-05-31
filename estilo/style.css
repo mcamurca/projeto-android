@@ -46,16 +46,16 @@ header > h1 {
     color: white;
     margin-bottom: 20px;
     font-family: var(--fonte-destaque);
-    font-size: 5em;
+    font-size: 2em;
     text-shadow: 2px 2px 0px black;
 }
 
 header > p {
     color: white;
     font-family: var(--fonte-padrao);
-    font-size: 1.2em;
+    font-size: 1em;
     margin: auto;
-    padding-bottom: 60px;
+    padding-bottom: 50px;
     max-width: 600px;
     padding-left: 10px;
     padding-right: 10px;
